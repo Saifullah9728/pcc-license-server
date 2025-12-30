@@ -12011,15 +12011,15 @@
       "expires_at": null,
       "sig": "lygZqpoVAqxGBOpzfQDHDfSkv1pw9UUWy01g5pzM1eRFxL4cYTx5qU2kxIINb4srrqPDVe7hvQ5XKTr97CbbuXTQThv2J978zATYARoVt6UYfKV8DPdCpKPGyP1X2eDJoIGiLKs+DMNcKLPSZP/DMB48TJUxNcdBdows3gAgqYhcqy0UQIlGM2ep8N6P/1jsJhpmL4+erUY0vxSerkxZBKlRgCACx3LageLQTar6WJL1qJCB75mOZLxi4IvVtdD2Y4rw+z7zLFoOigWEvwO8s2Dxq/HyfqQsq80P8ky1E5Ry+R7Be6TgCd39TVvVD9HVazqGz2cxGCPPqrjtjj22Hg=="
     },
-    "R810V-KRN8F-ZAW4P-0Q2NT-J3SS4": {
-      "app": "PCC",
-      "license_id": "PCC-20251228163112",
-      "product_key": "R810V-KRN8F-ZAW4P-0Q2NT-J3SS4",
-      "machine_id": null,
-      "plan": "7d",
-      "issued_at": "2025-12-28T16:31:12Z",
-      "expires_at": "2026-01-04T16:31:12Z",
-      "sig": "Niqx4SfNwE/3JTtSMHzT3ACotURBvxTd+O3Eq8XEqEiENnU0R4Vk7ZQhF1E8elrUS3BrbmQWIRwLYbXdSsIgpX+JUHF1x0GQtqOFP91wNCecRQxnyKycOYYBy/d+5Hv1nMm1PR6pQhbiJCVlv+PrgIfujf/GcCoPbUGDLgBw7Wwg5EbcT+VBcdn6d/8I+Dsfzy9Rue6LbdoXjJlhcH1ZFHyRdTs+UN0pEDJ/+ugpyV3sJ8tWWNjUUB7iIXgB96RPn9jdod6VTp07piGE0Kupk74Wd0t45pPEJCscMqUfBwautEtFVs0Bka7slPsYPfpFMz7Y3YRbK4HnE0v5B0EBEA=="
+    "app": "PCC",
+  "license_id": "PCC-20251230160301",
+  "product_key": "FHKG2-FFR8B-LTZYR-E8NLJ-7JS3E",
+  "machine_id": null,
+  "plan": "7d",
+  "issued_at": "2025-12-30T16:03:01Z",
+  "expires_at": "2026-01-06T16:03:01Z",
+  "sig": "E/Za6ViHW0KGYvYlsVNjabY6gq7A2RORD4Jxfwxf4mG0HxN79etfjbPVUR4zR3Vy4QRmfqeg1hTmVnKCOmkn7q1aOUnBFUx0K3zJrm82L4HV5Fb7fHP3gJSgd3nUxTEUEKFYXABVlZeb94Rr1K+J1viwGEa+co8aYdK2RuFQNnKSRoDsXA/R3Hl8yWwhANQZCLmQgdzipoPH6DUDbC5rs0lKNAB/+UYM2B4e0/K77HgA2ik9NLZvC9UvghTLQVKYGreSEi7pWF2UQyTDZ+lvqI/gxcbTkVFUvxto8Xa3dEuT/9qrBd2UXOE0YGNsyP5cgPGdnuw99nbqdeBbnNE3YA=="
     }
   }
 }
+
