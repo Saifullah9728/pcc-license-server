@@ -18,7 +18,7 @@
       "machine_id": null,
       "plan": "1m",
       "issued_at": "2025-12-30T15:15:53Z",
-      "expires_at": "2026-01-29T15:15:53Z",
+      "expires_at": "2026-02-29T15:15:53Z",
       "sig": "IGLE1lm5PzIiLHxduCMT/MyEFR+1kyhIzXoa0QNTu+BUs6vKG1RRO95J3BW46y8ez7GJGKjFAkzdh2Qjb7NK1up0nxZWGr9YpUwQmPVEZDq8Ea/vVLjKXjWrP/Hqkd4YOdu4XJpx8CFvZ/a/RL+5kA0ZfALndTjbldiYsWH3YtxQp8vRkpfvSfpPKx6DeiMVPnPKC4Ppp5xDciRSCW2Xx07XN/e0BrLhvn1FUIfySK7VZAULnoId3JvZijaEirZNhCvGIl+TOSYHTW9SKczzmHCfPv+iM9bYom2ivdW0L0fcYwYLhh181wEpfAJqxzNX6I05Riz1xAsuijtiMlSwQw=="
     },
     "4Z5N8-HHSSZ-MEQTH-8L1RA-JKN5W": {
@@ -12022,4 +12022,5 @@
     }
   }
 }
+
 
